@@ -1,4 +1,4 @@
-This tutorial goes over [basic joystick controls](joystick) and [basic pid loops](pid).  
+This tutorial goes over [basic joystick controls](#joystick) and [basic pid loops](#pid).  
 Make sure you completed the spin motor tutorial before going here.  
 First go back to the Motor Subsystem, we go over
 - Encoders
